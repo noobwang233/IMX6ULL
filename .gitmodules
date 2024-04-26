@@ -1,3 +1,9 @@
 [submodule "no_os/Imx6ull_WithoutOS"]
 	path = no_os/Imx6ull_WithoutOS
 	url = https://github.com/noobwang233/Imx6ull_WithoutOS.git
+[submodule "uboot/imx6ull_uboot"]
+	path = uboot/imx6ull_uboot
+	url = https://github.com/noobwang233/imx6ull_uboot.git
+[submodule "app/Linux_app"]
+	path = app/Linux_app
+	url = https://github.com/noobwang233/Linux_app.git
