@@ -1,0 +1,3 @@
+[submodule "no_os/Imx6ull_WithoutOS"]
+	path = no_os/Imx6ull_WithoutOS
+	url = https://github.com/noobwang233/Imx6ull_WithoutOS.git
