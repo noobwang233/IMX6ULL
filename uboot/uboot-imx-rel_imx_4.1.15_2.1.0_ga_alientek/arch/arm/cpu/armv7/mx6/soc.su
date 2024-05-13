@@ -1,0 +1,16 @@
+soc.c:64:5:get_nr_cpus	0	static
+soc.c:70:5:get_cpu_rev	0	static
+soc.c:121:5:get_cpu_speed_grade_hz	8	static
+soc.c:171:5:get_cpu_temp_grade	0	static
+soc.c:202:12:get_board_rev	8	static
+soc.c:481:5:arch_cpu_init	8	static
+soc.c:594:12:board_mmc_get_env_dev	0	static
+soc.c:624:5:mmc_get_env_dev	0	static
+soc.c:636:12:board_mmc_get_env_part	0	static
+soc.c:641:6:mmc_get_env_part	0	static
+soc.c:654:5:board_postclk_init	16	static
+soc.c:679:6:imx_get_mac_from_fuse	16	static
+soc.c:736:18:get_boot_device	0	static
+soc.c:779:6:set_wdog_reset	0	static
+soc.c:801:6:reset_misc	0	static
+soc.c:808:6:s_init	8	static

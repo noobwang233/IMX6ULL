@@ -1,0 +1,7 @@
+fsl_qspi.c:695:1:fsl_qspi_runcmd	32	static
+fsl_qspi.c:538:6:spi_init	0	static
+fsl_qspi.c:542:19:spi_setup_slave	16	static
+fsl_qspi.c:587:6:spi_free_slave	8	static
+fsl_qspi.c:596:5:spi_claim_bus	0	static
+fsl_qspi.c:601:6:spi_release_bus	0	static
+fsl_qspi.c:832:6:spi_xfer	48	static

@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := arm-linux-gnueabihf-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /home/wt/Linux/tools/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/7.5.0 -lgcc

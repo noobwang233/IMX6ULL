@@ -1,0 +1,3 @@
+power_i2c.c:19:5:pmic_reg_write	32	static
+power_i2c.c:63:5:pmic_reg_read	32	static
+power_i2c.c:103:5:pmic_probe	8	static

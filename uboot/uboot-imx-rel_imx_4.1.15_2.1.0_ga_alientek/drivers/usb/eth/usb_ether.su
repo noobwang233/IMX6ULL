@@ -1,0 +1,2 @@
+usb_ether.c:199:5:is_eth_dev_on_usb_host	4	static
+usb_ether.c:254:5:usb_host_eth_scan	40	static
