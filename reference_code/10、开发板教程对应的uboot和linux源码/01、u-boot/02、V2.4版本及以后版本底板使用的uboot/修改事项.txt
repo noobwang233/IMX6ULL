@@ -1,0 +1,1 @@
+board/freescale/mx6ull_alientek_nand/mx6ull_alientek_nand.c文件下的setup_iomux_fec函数缺少延时，应添加mdelay(150);
